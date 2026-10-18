@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Claudemiro Francisco Pereira Neto, tenho 28 anos e sou natural de São Vicente,SP, Brasil. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando pos graduacão em segurança da informação na Faculdade Central de Minas, conclui Análise e Desenvolvimento de Sistemas na Unibr São VIcente.
+Me chamo Claudemiro Francisco Pereira Neto, tenho 28 anos e sou natural de São Vicente, SP, Brasil. Concluí minha faculdade en Análise e Desenvolvimento de Sistemas na Unibr São Vicente. Atualmente, estou cursando pos graduacão em segurança da informação na Faculdade Central de Minas, conclui Análise e Desenvolvimento de Sistemas na Unibr São VIcente.  Até agora criei os seguintes sites sites "[Heart Coffee](https://sites.google.com/view/heartcoffee/in%C3%ADcio)"
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
