@@ -5,19 +5,29 @@
 Me chamo Claudemiro Francisco Pereira Neto, tenho 28 anos e sou natural de São Vicente, SP, Brasil. Concluí minha faculdade en Análise e Desenvolvimento de Sistemas na Unibr São Vicente. Atualmente, estou cursando pos graduacão em segurança da informação na Faculdade Central de Minas, conclui Análise e Desenvolvimento de Sistemas na Unibr São VIcente.  Até agora criei os seguintes sites sites "[Heart Coffee](https://sites.google.com/view/heartcoffee/in%C3%ADcio)"
 
 <p align="left">
+    <a href="https://github.com/claudemiropereira18-sketch?tab=repositories">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/claudemiropereira18-sketch?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
   <a href="https://github.com/claudemiropereira18-sketch/Claudemiropereira18-sketch/blob/main/README.md">
         <img 
-            alt="LINKEDIN" 
+            alt="GITHUB" 
             title="Me siga no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=0c0d0f&labelColor=0c0d0f&style=for-the-badge&logo=github&label=GITHUB&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/claudemiropereira18-sketch
+?color=0c0d0f&labelColor=0c0d0f&style=for-the-badge&logo=github&label=GITHUB&logoColor=white"
         />
-    </a><a href="https://www.linkedin.com/in/claudemiro-francisco-pereira-neto-74120921b/?isSelfProfile=true">
+    </a>
+     <a href="https://www.linkedin.com/in/claudemiro-francisco-pereira-neto-74120921b/?isSelfProfile=true">
         <img 
             alt="LINKEDIN" 
             title="Me siga no LINKEDIN" 
-           src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=LINKEDIN&logoColor=white"
+           src="https://custom-icon-badges.demolab.com/github/followers/claudemiropereira18-sketch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=LINKEDIN&logoColor=white"
         />
     </a>
+
 
 
 
