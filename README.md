@@ -16,8 +16,7 @@ Me chamo Claudemiro Francisco Pereira Neto, tenho 28 anos e sou natural de São 
         <img 
             alt="GITHUB" 
             title="Me siga no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/claudemiropereira18-sketch
-?color=0c0d0f&labelColor=0c0d0f&style=for-the-badge&logo=github&label=GITHUB&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/claudemiropereira18-sketch?color=0c0d0f&labelColor=0c0d0f&style=for-the-badge&logo=github&label=GITHUB&logoColor=white"
         />
     </a>
      <a href="https://www.linkedin.com/in/claudemiro-francisco-pereira-neto-74120921b/?isSelfProfile=true">
